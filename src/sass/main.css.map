@@ -4,7 +4,9 @@
     "sources": [
         "main.scss",
         "_example.scss",
-        "_start.scss"
+        "_start.scss",
+        "_test_sav.scss",
+        "_test_Kupchinskiy.scss"
     ],
     "names": [],
     "file": "main.css"
