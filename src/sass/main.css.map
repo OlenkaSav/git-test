@@ -5,8 +5,11 @@
         "main.scss",
         "_example.scss",
         "_start.scss",
-        "_test_Kupchinskiy.scss",
+        "_test_Kupchinskiy.scss"
+        "_test_sav.scss",
+        "_test_Kupchinskiy.scss"
         "_section-team.scss"
+        main
     ],
     "names": [],
     "file": "main.css"
